@@ -17,6 +17,7 @@
     "@mui/material": "^5.5.1",
     "@stripe/firestore-stripe-payments": "^0.0.6",
     "@tailwindcss/line-clamp": "^0.3.1",
+    "@types/stripe": "^8.0.417",
     "firebase": "^9.6.10",
     "framer-motion": "^6.2.8",
     "next": "latest",
@@ -31,7 +32,9 @@
     "react-player": "^2.10.0",
     "react-transition-group": "^4.4.2",
     "recoil": "^0.7.0",
-    "tailwind-scrollbar-hide": "^1.1.7"
+    "stripe": "^9.3.0",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "ts-serializable": "^2.0.3"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
